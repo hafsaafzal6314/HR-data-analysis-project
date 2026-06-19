@@ -1,5 +1,13 @@
 # HR Analytics Dashboard (Excel)
 
+## Dashboard Preview
+
+![Dashboard](HR dashboard1.png),(HR dashboard2.png)
+
+## 📌 Project Overview
+
+This project is an HR Analytics Dashboard created using Microsoft Excel...# HR Analytics Dashboard (Excel)
+
 ## 📌 Project Overview
 This project is an HR Analytics Dashboard created using Microsoft Excel. It provides insights into employee data through KPIs, Pivot Tables, Pivot Charts, and Slicers.
 
