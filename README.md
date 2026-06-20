@@ -2,7 +2,8 @@
 
 ## Dashboard Preview
 
-![Dashboard](HR dashboard1.png),(HR dashboard2.png)
+![Dashboard](HR dashboard1.png)
+![Dashboard](HR dashboard2.png)
 
 ## 📌 Project Overview
 
